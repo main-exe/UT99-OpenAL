@@ -10,3 +10,9 @@ Having 3D spatial sound directly from audio engine has elevation and is more acc
 Patched UT99 supports OpenAL Soft which allows to enable 3D spatial audio with custom HRTF. Get latest patch [here](https://github.com/OldUnreal/UnrealTournamentPatches/releases).
 
 Instructions and a way to find best sounding HRTF are included in 'Readme.txt' inside release [archive](https://github.com/main-exe/UT99-OpenAL/releases).
+
+# Instructions for other UT games
+
+[UT2004](https://github.com/main-exe/UT2004-OpenAL)
+
+[UT4](https://github.com/main-exe/UT4-OpenAL)
