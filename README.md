@@ -11,7 +11,7 @@ Patched UT99 supports OpenAL Soft which allows to enable 3D spatial audio with c
 **Important to use UT v469d build or later since there are bug fixes related to audio.** Get latest patch [here](https://github.com/OldUnreal/UnrealTournamentPatches/releases).
 
 
-Instructions and a way to find best sounding HRTF are included in 'Readme.txt' inside release [archive](https://github.com/main-exe/UT99-OpenAL/releases).
+Instructions and a way to find best sounding HRTF are included in 'Readme.txt' inside UT99-OpenAL-XXXX [archive](https://github.com/main-exe/UT99-OpenAL/releases).
 
 ## Instructions for other UT games
 
