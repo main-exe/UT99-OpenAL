@@ -17,4 +17,6 @@ Instructions and a way to find best sounding HRTF are included in 'Readme.txt' i
 
 [UT2004](https://github.com/main-exe/UT2004-OpenAL)
 
+[UT3](https://github.com/main-exe/UT3-OpenAL)
+
 [UT4](https://github.com/main-exe/UT4-OpenAL)
